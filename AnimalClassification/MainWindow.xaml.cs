@@ -49,7 +49,7 @@ namespace Animal_Classification
                 sendData();
                 string type = dataManager.getAnimalType();
                 typeTB.Text = type;
-                animalNameTB.Clear();
+                
             }
 
 
